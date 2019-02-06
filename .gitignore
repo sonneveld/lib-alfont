@@ -9,3 +9,5 @@ build/VS2015/.vs/
 examples/msvc/
 lib/msvc/
 obj/msvc/
+
+build*/**
